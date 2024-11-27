@@ -4,7 +4,7 @@
   "description": "This blog created by sabri charime email:sabricharim7@gmail.com mobile:+213668038264",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "cd backend && npm run build"
   },
   "repository": {
     "type": "git",
