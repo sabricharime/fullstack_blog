@@ -1,0 +1,28 @@
+{
+  "name": "completeblog",
+  "version": "1.1.1",
+  "description": "This blog created by sabri charime email:sabricharim7@gmail.com mobile:+213668038264",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabricharime/fullstack_blog.git"
+  },
+  "keywords": [
+    "Pern",
+    "Blog",
+    "mern",
+    "Blog",
+    "Full",
+    "Stack",
+    "Blog"
+  ],
+  "author": "Sabri Charime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabricharime/fullstack_blog/issues"
+  },
+  "homepage": "https://github.com/sabricharime/fullstack_blog#readme"
+}

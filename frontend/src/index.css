@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: auto;
+}
+
+body,
+html,
+#root {
+  @apply size-full font-Tajawal ;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  font-weight: 900;
+}
+h2 {
+  font-size: 2.4em;
+  line-height: 1.1;
+  font-weight: 800;
+}
+h3 {
+  font-size: 1.8em;
+  line-height: 1.1;
+  font-weight: 700;
+}
+h4 {
+  font-size: 1.6em;
+  line-height: 1.1;
+  font-weight: 600;
+}
+h5 {
+  font-size: 1.4em;
+  line-height: 1.1;
+  font-weight: 600;
+}
+h6 {
+  font-size: 1.2em;
+  line-height: 1.1;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #442200;
+    background-color: #ffffff;
+  }
+}
