@@ -4,8 +4,11 @@
 
 This blog application is designed to provide a seamless and interactive experience for users to read, create, and manage blog posts. It leverages the powerful PERN stack to deliver a robust and scalable solution.
 
-## Features
+![Blog Screenshot](./images/1.jpg)
+![Responsive Design](./images/10.png)
+![Admin Panel](./images/6.png)
 
+## Features
 - **Responsive Design**: Works on all devices including desktop, tablet, and mobile.
 - **User Authentication**: Secure login and registration system.
 - **CRUD Operations**: Create, Read, Update, and Delete blog posts.
