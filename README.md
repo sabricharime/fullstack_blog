@@ -56,10 +56,14 @@ Make sure you have the following installed:
 
 ### Usage
 
-1. Start the Project server and fronend as development:
+1. build the Project server and fronend :
     ```bash
       npm run build
     ```
+2. start the project as production mode:
+    ```bash
+    npm start 
+   ```
 
 
 
