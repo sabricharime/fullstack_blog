@@ -41,11 +41,7 @@ Make sure you have the following installed:
     ```bash
       npm run install
     ```
-
-3.
-    ```
-
-4. .dotenv:
+3. (.env) file configuration:
     - DATABASE_URL="YOUR DATABASE URL"
     - ACCESS_SECRETE = "Your Access secrete"
     - REFRESH_SECRETE = "Your refresh token secrete"
