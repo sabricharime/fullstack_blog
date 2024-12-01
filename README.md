@@ -56,17 +56,13 @@ Make sure you have the following installed:
 
 ### Usage
 
-1. Start the Project server an fronend as development:
-    ```bash
-      npm run dev
-    ```
-
-
-2. Start the Project server an fronend as production:
+1. Start the Project server and fronend as development:
     ```bash
       npm run build
-      npm start
     ```
+
+
+
 
 Visit `http://localhost:3000` to view the application.
 
